@@ -1,4 +1,3 @@
-#start
 try {
 	process.env.LESSONS = process.env.LESSONS ?? 1;
 
